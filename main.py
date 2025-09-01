@@ -1,0 +1,2 @@
+from arithmetic_operations import perform_operation
+perform_operation()
