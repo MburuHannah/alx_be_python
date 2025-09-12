@@ -1,0 +1,5 @@
+{
+  "vsintellicode.modify.editor.suggestSelection": "disabled",
+  "intellicodeApiExamples.python.enabled": false,
+  "intellicodeApiExamples.typescript.enabled": false
+}
